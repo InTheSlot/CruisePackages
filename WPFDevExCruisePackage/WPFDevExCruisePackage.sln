@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDevExCruisePackage", "WPFDevExCruisePackage.csproj", "{A983C08E-D6DC-4B09-AC84-43E8A1874808}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFDevExCruisePackage", "WPFDevExCruisePackage.csproj", "{A983C08E-D6DC-4B09-AC84-43E8A1874808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerVanillaCruisePackage", "..\BlazorServerVanillaCruisePackage\BlazorServerVanillaCruisePackage.csproj", "{62F5C10A-305B-46FE-8A93-45E4D38FEFAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A983C08E-D6DC-4B09-AC84-43E8A1874808}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A983C08E-D6DC-4B09-AC84-43E8A1874808}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A983C08E-D6DC-4B09-AC84-43E8A1874808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62F5C10A-305B-46FE-8A93-45E4D38FEFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F5C10A-305B-46FE-8A93-45E4D38FEFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F5C10A-305B-46FE-8A93-45E4D38FEFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F5C10A-305B-46FE-8A93-45E4D38FEFAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
